@@ -150,7 +150,7 @@ Roughly **1 hr 58 min 38 sec** of coding, adding more features editing README , 
 
 ### 🙃 Why I Created This
 
-I was deep into studying **Memory Forensics** (learning about VAD trees, PTEs, and Rootkits). I realized that while the *concepts* are fascinating, the *process* is painful.
+I was into studying **Memory Forensics** (learning about VAD trees, PTEs, and Rootkits). I realized that while the *concepts* are fascinating, the *process* is painful.
 
 I found myself typing the same 50-character commands over and over again. I looked at the **SANS Cheat Sheet** and thought: *"Why isn't there a tool that just follows this PDF automatically?"*
 
