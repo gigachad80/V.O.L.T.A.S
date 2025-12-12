@@ -1,12 +1,27 @@
-# Be ready .Will release it withing a week
-# **V**olatility . **O**rchestration . & **L**ive . **T**riage . **A**nalysis . **S**uite
-# Need to be installed : 
-- Vol.exe ( volatility ) 
-- winpmem_mini_x64.exe
-- DumpIt.exe
-- moneta64.exe
-- hollows_hunter64.exe
-- Get-InjectedThreadEx.exe
-- MemProcFS.exe
+# V.O.L.T.A.S
+### Volatility Orchestration & Live Triage Analysis Suite
 
-  # If you are on linux , install only volatility but remember , many functions won't work . So windows is recommended 
+> **🚧 Coming Soon:** Initial Release v1.0 arriving within a week.
+
+V.O.L.T.A.S is a TUI-based **Memory Forensics & Threat Hunting Orchestration Framework** built in Go. It automates the SANS workstation workflow by unifying Volatility 3, live scanning, and acquisition tools into a single dashboard.
+
+---
+
+### 🛠️ Dependencies (Prerequisites)
+V.O.L.T.A.S acts as an orchestrator. You must download the following executables and place them in the same folder as `VOLTAS.exe`:
+
+*   **`vol.exe`** (Volatility 3 Standalone)
+*   **`winpmem_mini_x64.exe`** (Acquisition)
+*   **`DumpIt.exe`** (Acquisition)
+*   **`moneta64.exe`** (Live Scanning)
+*   **`hollows_hunter64.exe`** (Live Scanning)
+*   **`Get-InjectedThreadEx.exe`** (Live Scanning)
+*   **`MemProcFS.exe`** (Triage)
+
+---
+
+### 🐧 Compatibility Note
+**Windows is highly recommended.**
+
+*   **Windows:** All features (Acquisition, Live Scanning, Analysis) work out of the box.
+*   **Linux:** Only `Volatility` based analysis modules will work. Live Scanning and Acquisition tools (`.exe` binaries) are Windows-exclusive and will be disabled.
