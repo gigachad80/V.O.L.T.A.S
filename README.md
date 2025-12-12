@@ -175,7 +175,14 @@ This project relies entirely on the giants of the industry. V.O.L.T.A.S is just 
 
 **MIT License** 
 
+---
+
 **Made with ❤️ in Go** - For the Blue Team. 🛡️
+
+First Release (v2) : 12th December 2025
+
+Last Updated : 12th December 2025
+
 If V.O.L.T.A.S helped you streamline your forensics workflow, please consider **giving it a star!** ⭐ 
 
 It helps others find the project and motivates me to develop more projects🥹🥹😭😭
