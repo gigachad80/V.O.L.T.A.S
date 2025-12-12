@@ -177,5 +177,6 @@ This project relies entirely on the giants of the industry. V.O.L.T.A.S is just 
 
 **Made with ❤️ in Go** - For the Blue Team. 🛡️
 If V.O.L.T.A.S helped you streamline your forensics workflow, please consider **giving it a star!** ⭐ 
+
 It helps others find the project and motivates me to develop more projects🥹🥹😭😭
-````
+
