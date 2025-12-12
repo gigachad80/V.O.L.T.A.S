@@ -73,17 +73,23 @@ Real-world Incident Response is messy. Your desktop usually looks like a disaste
 
 V.O.L.T.A.S is an **Orchestrator**. It does not contain the engines inside it. You must download the standard forensic tools and place them in the same folder as `voltas.exe`.
 
+
 **⚠️ REQUIRED EXECUTABLES (Download & Place in Root Folder):**
+>[!NOTE]
+> Always Use **pip** or **pip3 install volatility3-<version>-py3-none-any.whl**
+ instead of pip3 install volatility3
+
 
 | Tool | Filename Required | Purpose |
 | :--- | :--- | :--- |
-| **Volatility 3** | `vol.exe` | The Core Analysis Engine. |
+| **Volatility 3** | `vol.exe`  | The Core Analysis Engine. |
 | **WinPmem** | `winpmem_mini_x64.exe` | For Memory Acquisition. |
 | **DumpIt** | `DumpIt.exe` | Alternative Acquisition. |
 | **Moneta** | `moneta64.exe` | Live Malware Scanning. |
 | **HollowsHunter** | `hollows_hunter64.exe` | Scan for implants/hooks. |
 | **InjThread** | `Get-InjectedThreadEx.exe` | Thread Injection detection. |
 | **MemProcFS** | `MemProcFS.exe` | High-speed triage mounting. |
+
 >[!NOTE]
 > **Note for Linux Users:** You only need `vol` (Volatility). The `.exe` tools (Moneta, WinPmem) are Windows-exclusive and those buttons will be disabled/hidden logic on Linux.
 
