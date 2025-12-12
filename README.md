@@ -104,7 +104,7 @@ go build  -o voltas.exe
 ```
 OR 
 
-For downloading : Download the latest binary from the [releases](https://github.com/gigachad80) page and add it to your PATH.
+For downloading : Download the latest binary from the [releases](https://github.com/gigachad80/V.O.L.T.A.S/releases) page and add it to your PATH.
 
 
 **Step 2: Folder Setup**
