@@ -171,9 +171,9 @@ This project relies entirely on the giants of the industry. V.O.L.T.A.S is just 
 
 📧 Email: **pookielinuxuser@tutamailcom**
 
-### 📄 License
+### 📄 Licence
 
-**MIT License** 
+**MIT Licence** 
 
 ---
 
@@ -183,7 +183,7 @@ First Release (v2) : 12th December 2025
 
 Last Updated : 12th December 2025
 
-If V.O.L.T.A.S helped you streamline your forensics workflow, please consider **giving it a star!** ⭐ 
+If V.O.L.T.A.S helped you in your forensics workflow, please consider **giving it a star!** ⭐ 
 
 It helps others find the project and motivates me to develop more projects🥹🥹😭😭
 
