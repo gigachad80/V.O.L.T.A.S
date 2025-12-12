@@ -84,7 +84,7 @@ V.O.L.T.A.S is an **Orchestrator**. It does not contain the engines inside it. Y
 | **HollowsHunter** | `hollows_hunter64.exe` | Scan for implants/hooks. |
 | **InjThread** | `Get-InjectedThreadEx.exe` | Thread Injection detection. |
 | **MemProcFS** | `MemProcFS.exe` | High-speed triage mounting. |
-
+>[!NOTE]
 > **Note for Linux Users:** You only need `vol` (Volatility). The `.exe` tools (Moneta, WinPmem) are Windows-exclusive and those buttons will be disabled/hidden logic on Linux.
 
 ### 📥 Installation Guide
