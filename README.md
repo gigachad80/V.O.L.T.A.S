@@ -98,7 +98,7 @@ V.O.L.T.A.S is an **Orchestrator**. It does not contain the engines inside it. Y
 **Step 1: Build from Source or Download from Releases**
 ```bash
 git clone https://github.com/gigachad80/V.O.L.T.A.S
-cd VOLTAS
+cd V.O.L.T.A.S
 go mod tidy
 go build  -o voltas.exe
 ```
