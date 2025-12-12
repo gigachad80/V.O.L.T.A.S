@@ -9,4 +9,4 @@
 - Get-InjectedThreadEx.exe
 - MemProcFS.exe
 
-  # If you are on linux , install only volatility 
+  # If you are on linux , install only volatility but remember , many functions won't work . So windows is recommended 
