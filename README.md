@@ -1,4 +1,4 @@
-`
+
 🚀 Project Name : V.O.L.T.A.S
 ===============
 
@@ -140,7 +140,7 @@ Also...  "Voltas" is a very famous Air Conditioner brand. It keeps things cool. 
 
 ### ⌚ Development Time
 
-Roughly **2 days** of coding, refactoring, and fighting with the progress bar logic to make it look smooth.
+Roughly **1 hr 58 min 38 sec** of coding, adding more features editing README , and fighting with the progress bar logic to make it look smooth.
 
 ### 🙃 Why I Created This
 
@@ -170,4 +170,6 @@ This project relies entirely on the giants of the industry. V.O.L.T.A.S is just 
 **MIT License** 
 
 **Made with ❤️ in Go** - For the Blue Team. 🛡️
+If V.O.L.T.A.S helped you streamline your forensics workflow, please consider **giving it a star!** ⭐ 
+It helps others find the project and motivates me to develop more projects🥹🥹😭😭
 ````
