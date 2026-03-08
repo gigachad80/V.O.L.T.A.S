@@ -10,10 +10,7 @@
 <a href="https://github.com/gigachad80/V.O.L.T.A.S/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 
 
- 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/5451d869-8158-45b8-ba7e-08ab365e26ea" width="600" controls></video>
-</div>
+  src="https://github.com/user-attachments/assets/5451d869-8158-45b8-ba7e-08ab365e26ea" width="600" controls>
 
 ## Table of Contents
 
